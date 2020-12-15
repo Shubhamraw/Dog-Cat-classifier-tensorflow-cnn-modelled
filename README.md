@@ -7,11 +7,15 @@ graphics, audio, and other virtual enhancements integrated with real-world objec
 “Augmented reality is the rendering of digital images or data onto real-world objects.”
 
 
-TensorFlow DeepCNNs to classify images of Dogs and Cats 
+TensorFlow DeepCNNs to classify images of Dogs and Cats
+
 • Keras ImageDataGenerator class is used to generate batches of tensor   
    imagedata with real-time data augmentation of dogs and cats images
+   
 • Developed a baseline CNN model and stacking more convolutional block  
    to improve performance further.  
+   
 • Regularization techniques are used to improve performance further and  
-   to overcome the overfitting problem   
+   to overcome the overfitting problem 
+   
 • Model achieved 82.63% of validation accuracy in the end
