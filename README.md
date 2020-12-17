@@ -1,5 +1,5 @@
 # Tutorial from Jason Brownlee. All thanks to him for making projects public. It helps a lot for beginner like us to know how things works 
-Dog and Cat image classification using CNN Tensorflow 2.3
+# Dog and Cat image classification using CNN Tensorflow 2.3
 
 My brief notes about the project 
 
